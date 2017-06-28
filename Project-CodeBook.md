@@ -17,7 +17,7 @@ The `run_analysis.R` script reads in both test and train data and performs follo
 The columns included in the output file are listed below:
 
   - subject - The id of the experiment.
-  - activity - Activity measurements (`LAYING` or `WALKING`, 'SITTING', etc)
+  - activity_label - Activity measurements (`LAYING` or `WALKING`, 'SITTING', etc)
 
    following fields are from  `features_info.txt` file included in the given zipfile.
 
